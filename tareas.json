@@ -12,11 +12,21 @@
  {
   "Titulo": "Bañar a Mora",
   "Horario": "Por la noche",
-  "Estado": "Pendiente"
+  "Estado": "Realizado"
  },
  {
   "Titulo": "Ver Intratables",
   "Horario": "A las 21.15",
-  "Estado": "En Progreso"
+  "Estado": "Realizado"
+ },
+ {
+  "Titulo": "Ir a clase de Desarrolador",
+  "Horario": "7PM",
+  "Estado": "Pendiente"
+ },
+ {
+  "Titulo": "Querer a Camila",
+  "Horario": "Siempre",
+  "Estado": "Realizado"
  }
 ]

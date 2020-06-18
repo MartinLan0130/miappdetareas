@@ -1,7 +1,6 @@
 {
   "name": "practicas_libres",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,15 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinLan0130/miappdetareas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MartinLan0130/miappdetareas/issues"
+  },
+  "homepage": "https://github.com/MartinLan0130/miappdetareas#readme",
+  "description": ""
 }
